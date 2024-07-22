@@ -1,1 +1,1 @@
-# mimi-app
+# mini-app-php
